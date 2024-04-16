@@ -1,0 +1,28 @@
+/* infa  */
+.infa {
+  display: flex;
+  justify-content: space-between;
+  padding-top: 5%;
+  height: 80vh;
+}
+.infa_left {
+  width: 20%;
+  text-align: right;
+  padding: 50px 60px 20px 60px;
+  background-color: #f3efef;
+}
+.infa_ritgh {
+  width: 80%;
+  padding: 50px 60px 20px 60px;
+  background-color: #e8e5e5;
+}
+.infa_left__inner_top {
+  font-size: 20px;
+  text-transform: uppercase;
+  font-weight: 600;
+}
+.infa_ritgh__inner_text p {
+  color: #939393;
+  font-weight: 400;
+  font-size: 18px;
+}
